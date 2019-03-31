@@ -1,0 +1,35 @@
+body {
+    background-image: url('../images/background.jpg');
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+#banner {
+    background-color: rgba(236, 253, 1, 0.8);
+    margin: 10px;
+    padding: 5px 20px;
+    border-radius: 10px;
+    border-color: blueviolet; 
+    border-width: 3px;
+    text-align: center;
+    display: inline-block;
+    justify-content: center;
+}
+
+.btn {
+    background-color: rgba(42, 241, 231, 0.8);
+    margin: 10px;
+    padding: 5px 20px;
+    border-radius: 25px;
+    border-color: coral;  
+    border-width: 3px;
+    text-shadow: 4px 4px 6px #000000;
+}
+
+p {
+    font-size: 18px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: white;
+    margin: 3px;
+    text-shadow: 4px 4px 6px #000000;
+}
